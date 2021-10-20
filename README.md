@@ -20,8 +20,7 @@ Minhas redes sociais 👇
 <div>
 <a href="https://github.com/wesley-filipe">
     <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=wesley-filipe&theme=dark"/>
-  <b href="https://github.com/wesley-filipe">
-    <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley-filipe&hide=html&layout= compact&theme=dark"/>
+  <img height="180em"   align="center" src="https://i.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.webp"/>
    
   
  <br>
