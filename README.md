@@ -1,5 +1,6 @@
 
 
+
 # Olá eu sou o Wesley👋
 
 Bem vindo ao meu perfil, digamos que sou um entusiasta da tecnologia! Espero ser um futuro programador. Quem sabe...😎
@@ -17,13 +18,16 @@ Minhas redes sociais 👇
 
 <a href="https://www.instagram.com/wesleyspilar/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 <div>
-  <a href="https://github.com/wesley-filipe">
-    <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=wesley-filipe&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/wesley-filipe">
+    <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=wesley-filipe&theme=dark"/>
+  <b href="https://github.com/wesley-filipe">
+    <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley-filipe&hide=html&layout= compact&theme=dark"/>
+   
+  
  <br>
 <div  align="center"> 
 </div>
  
  
-
 
 
