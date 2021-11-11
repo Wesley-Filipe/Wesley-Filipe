@@ -3,7 +3,7 @@
 
 # Olá eu sou o Wesley👋
 
-Bem vindo ao meu perfil, digamos que sou um entusiasta da tecnologia! Espero ser um futuro programador. Quem sabe...😎
+Bem vindo ao meu perfil, digamos que sou um entusiasta da tecnologia! Espero ser um futuro dev. Quem sabe...😎
 
 Estou aprendendo a gostar de resolver problemas, julgo que estou no caminho certo. 
 
