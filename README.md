@@ -21,7 +21,7 @@ Minhas redes sociais 👇
 <div>
 <a href="https://github.com/wesley-filipe">
     <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=wesley-filipe&theme=dracula"/>
-  <img height="180em"   align="center" src="https://i.gifer.com/1D6j.gif"/>
+  <img height="180em"   align="center" src="https://github.com/Wesley-Filipe/Wesley-Filipe/blob/8586fa59aaf0ada4f0a6bb04aabcd9ce5fe73c97/1D6j.gif"/>
    
   
  <br>
