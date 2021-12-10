@@ -27,5 +27,5 @@ Minhas redes sociais 👇
  <br>
 <div  align="center"> 
 </div>
-    <img src = "<img src = "https://github.com/Game-Quiz/Documentacao/blob/main/fundo-questionario-com-itens-em-design-plano_23-2147599082.jpg "  width = "400px"  /> </div> 
+
 <div> <a href="https://www.youtube.com/watch?v=HkEWVhlmr-M" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
