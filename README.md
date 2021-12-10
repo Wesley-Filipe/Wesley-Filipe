@@ -27,7 +27,7 @@ Minhas redes sociais 👇
  <br>
 <div  align="center"> 
 </div>
- 
+ <img src = "<img src = "https://github.com/Game-Quiz/Documentacao/blob/main/fundo-questionario-com-itens-em-design-plano_23-2147599082.jpg "  width = "400px"  /> </div> "  width = "400px"  /> </div>
  
 
 
