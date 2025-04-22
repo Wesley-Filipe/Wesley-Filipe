@@ -8,9 +8,6 @@ Bem vindo ao meu perfil, digamos que sou um entusiasta da tecnologia! Espero ser
 
 Estou aprendendo a gostar de resolver problemas, julgo que estou no caminho certo. 
 
-
-### "Só sei que nada sei" 🤔
-
 - 📍Sou de BH
 
 - 🖥️Curso Ciências da Computação
